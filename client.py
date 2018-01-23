@@ -1,4 +1,4 @@
-import socket  # Import socket module
+import socket 
 import DHK
 from  Crypto.Cipher import AES
 import binascii
