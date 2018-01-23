@@ -1,20 +1,3 @@
-Skip to content
- 
-Search…
-All gists
-GitHub
-New gist
-@ProTactic 
- Edit
-  Delete
-  Star 0 @ProTacticProTactic/server
-Created an hour ago
-Embed  
-<script src="https://gist.github.com/ProTactic/e5b9c4bb3611d7728cafc1924e0d747c.js"></script>
-  Download ZIP
- Code  Revisions 1
-Raw
- server
 import socket
 import DHK
 import binascii
@@ -126,24 +109,3 @@ if __name__=='__main__':
         except Exception as e:
             print(e)
             print("Thread did not start.")
- @ProTactic
-  
-            
- 
-Write  Preview
-
-Leave a comment
-בחר קבצים Attach files by dragging & dropping, selecting them, or pasting from the clipboard.  Styling with Markdown is supported
-Comment
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
