@@ -23,9 +23,9 @@ SOFTWARE."""
 import tkinter as tk
 from tkinter import ttk
 import tkinter.messagebox as messagebox
-import socket
+import socket, sys
 import threading
-import sys
+
 """ 
     client gui contain two frames
     Main() is the root window
@@ -35,7 +35,6 @@ import sys
 
 LARGE_FONT = ("Verdana", 12)
 RECV_RUN = 0
-RECV = 0
 
 def send_error_info(text, main_socket):
     """
